@@ -2,5 +2,5 @@
   "name": "Example Token",
   "symbol": "EXMPL",
   "description": "Example token for Solana Foundation Bootcamp",
-  "image": ""
+  "image": "https://hailiting.github.io/my-static/download.jpeg"
 }
